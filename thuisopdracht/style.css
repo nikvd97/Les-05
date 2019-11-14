@@ -1,0 +1,57 @@
+html, body{
+    margin:0;
+    padding:0;
+}
+main{
+    background:black;
+    width:600px;
+    height:600px;
+    display: block;
+}
+
+.block-01{
+    background:yellow;
+    width:250px;
+    height:250px;
+    margin-left: 8px;
+    margin-top: 0px;
+    float:left;
+}
+
+.block-02{
+    background:green;
+    width:330px;
+    height: 250px;
+    margin-left: 265px;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: auto;
+}
+
+.block-03{
+    background:red;
+    width:200px;
+    height: 335px;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    float: left;
+}
+
+.block-04{
+    background: blue;
+    width: 375px;
+    height: 335px;
+    margin-left: 1px;
+    margin-top: 8px;
+    float: left;
+}
+
+.block-05{
+    background: red;
+    width: 208px;
+    height: 0px;
+    margin-left: 8px;
+    margin-top: 8px;
+    float: left;
+}
